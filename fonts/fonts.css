@@ -1,0 +1,11 @@
+/* Neue Machine Regular */
+@font-face {
+  font-family: "Neue Machina Regular";
+  src: url("./Neue-Machine-Regular/NeueMachinaRegular.eot");
+  src: local(""),
+    url("./Neue-Machine-Regular/NeueMachinaRegular.woff") format("woff"),
+    url("./Neue-Machine-Regular/NeueMachinaRegular.ttf") format("truetype"),
+    url("./Neue-Machine-Regular/NeueMachinaRegular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
